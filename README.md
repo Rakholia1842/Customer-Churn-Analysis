@@ -1,5 +1,5 @@
 Here’s a **detailed and well-structured README** for your **Customer Churn Analysis** project on GitHub. It follows best practices, making it easy for others to understand, install, and contribute to your project.  
-
+(https://github.com/Rakholia1842/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis%20Dashboard.png?raw=true) 
 ---
 
 # **Customer Churn Analysis 📊**  
